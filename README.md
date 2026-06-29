@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Radhikasingh28/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1544-make-the-string-great](https://github.com/Radhikasingh28/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
