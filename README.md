@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Radhikasingh28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
 ## Hash Table
@@ -78,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
