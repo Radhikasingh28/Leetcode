@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
