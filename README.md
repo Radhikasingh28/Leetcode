@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Radhikasingh28/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Memoization
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [1859-sorting-the-sentence](https://github.com/Radhikasingh28/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Number Theory
 |  |
