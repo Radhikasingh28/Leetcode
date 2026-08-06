@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/Radhikasingh28/Leetcode/tree/master/2652-sum-multiples) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Radhikasingh28/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Radhikasingh28/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Radhikasingh28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Radhikasingh28/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Radhikasingh28/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Radhikasingh28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
 | ------- |
