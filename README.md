@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Radhikasingh28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0724-find-pivot-index](https://github.com/Radhikasingh28/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Radhikasingh28/Leetcode/tree/master/0011-container-with-most-water) |
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Radhikasingh28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 ## Monotonic Stack
 |  |
