@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0724-find-pivot-index](https://github.com/Radhikasingh28/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Radhikasingh28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Radhikasingh28/Leetcode/tree/master/0011-container-with-most-water) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Radhikasingh28/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/3731-find-missing-elements) |
