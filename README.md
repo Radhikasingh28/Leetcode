@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0605-can-place-flowers](https://github.com/Radhikasingh28/Leetcode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Radhikasingh28/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+| [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
 ## Ordered Set
 |  |
 | ------- |
