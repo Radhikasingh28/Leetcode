@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Radhikasingh28/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Radhikasingh28/Leetcode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Radhikasingh28/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
