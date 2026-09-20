@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Radhikasingh28/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Radhikasingh28/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/3174-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Radhikasingh28/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Stack
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Radhikasingh28/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Radhikasingh28/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
