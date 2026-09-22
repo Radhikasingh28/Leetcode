@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Radhikasingh28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Radhikasingh28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Radhikasingh28/Leetcode/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
