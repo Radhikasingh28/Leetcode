@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Radhikasingh28/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Radhikasingh28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Radhikasingh28/Leetcode/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/Radhikasingh28/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Radhikasingh28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Ordered Set
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1859-sorting-the-sentence](https://github.com/Radhikasingh28/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3731-find-missing-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/3731-find-missing-elements) |
