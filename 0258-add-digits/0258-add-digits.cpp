@@ -1,31 +1,13 @@
 class Solution {
 public:
-int add(int num){
-    int sum=0;
-    while(num>0){
-            sum= sum+num%10;
-            num=num/10;
-
-        }
-        return sum;
+int add(int num,int sum){
+    if(num==0)return sum;
+    return add(num/10,sum+num%10);
 }
-int count(int num){
-    int c=0;
-    while(num>0){
-           
-            num=num/10;
-            c++;
 
-        }
-        return c;
-    
-}
     int addDigits(int num) {
-        if(num==0)return 0;
-        while(count(num)>1){
-            num= add(num);
-        }
-        return num;
+        if(num<10)return num;
+        return addDigits(add(num,0));
         
         
 
