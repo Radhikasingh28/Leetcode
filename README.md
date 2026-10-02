@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Radhikasingh28/Leetcode/tree/master/0605-can-place-flowers) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Radhikasingh28/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2413-smallest-even-multiple](https://github.com/Radhikasingh28/Leetcode/tree/master/2413-smallest-even-multiple) |
