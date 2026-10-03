@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Radhikasingh28/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Radhikasingh28/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Radhikasingh28/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Radhikasingh28/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Radhikasingh28/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Radhikasingh28/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Radhikasingh28/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
