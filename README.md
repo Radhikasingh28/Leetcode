@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Radhikasingh28/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Radhikasingh28/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Radhikasingh28/Leetcode/tree/master/0724-find-pivot-index) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
 ## Hash Table
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Radhikasingh28/Leetcode/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Radhikasingh28/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
