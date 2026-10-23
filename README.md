@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Radhikasingh28/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Radhikasingh28/Leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0556-next-greater-element-iii](https://github.com/Radhikasingh28/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0796-rotate-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Radhikasingh28/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Radhikasingh28/Leetcode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Radhikasingh28/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Radhikasingh28/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/Radhikasingh28/Leetcode/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/Radhikasingh28/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0836-rectangle-overlap](https://github.com/Radhikasingh28/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
