@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Radhikasingh28/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Radhikasingh28/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/3174-clear-digits) |
 ## Recursion
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2104-sum-of-subarray-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Radhikasingh28/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Radhikasingh28/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Radhikasingh28/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
