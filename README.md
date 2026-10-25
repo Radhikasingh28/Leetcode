@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Radhikasingh28/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Radhikasingh28/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1486-xor-operation-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Radhikasingh28/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Memoization
 |  |
 | ------- |
