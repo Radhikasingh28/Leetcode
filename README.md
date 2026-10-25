@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Radhikasingh28/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Radhikasingh28/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Radhikasingh28/Leetcode/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Radhikasingh28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Radhikasingh28/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Radhikasingh28/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Radhikasingh28/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1360-number-of-days-between-two-dates](https://github.com/Radhikasingh28/Leetcode/tree/master/1360-number-of-days-between-two-dates) |
+| [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Radhikasingh28/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
 |  |
