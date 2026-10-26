@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Radhikasingh28/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Radhikasingh28/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhikasingh28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Radhikasingh28/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2460-apply-operations-to-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Radhikasingh28/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Radhikasingh28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/3731-find-missing-elements) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Radhikasingh28/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Radhikasingh28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2460-apply-operations-to-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Radhikasingh28/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
