@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Radhikasingh28/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Radhikasingh28/Leetcode/tree/master/0078-subsets) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Radhikasingh28/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Radhikasingh28/Leetcode/tree/master/0283-move-zeroes) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Radhikasingh28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Radhikasingh28/Leetcode/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
