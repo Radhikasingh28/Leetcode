@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Radhikasingh28/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Radhikasingh28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0367-valid-perfect-square](https://github.com/Radhikasingh28/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Radhikasingh28/Leetcode/tree/master/0556-next-greater-element-iii) |
