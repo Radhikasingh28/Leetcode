@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Radhikasingh28/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Radhikasingh28/Leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Radhikasingh28/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Backtracking
 |  |
