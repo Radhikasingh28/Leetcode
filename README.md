@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Radhikasingh28/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Radhikasingh28/Leetcode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/Radhikasingh28/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Radhikasingh28/Leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0179-largest-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Radhikasingh28/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Radhikasingh28/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Radhikasingh28/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
