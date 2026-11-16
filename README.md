@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Radhikasingh28/Leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Radhikasingh28/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Radhikasingh28/Leetcode/tree/master/0283-move-zeroes) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Radhikasingh28/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Radhikasingh28/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -441,4 +445,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
