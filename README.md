@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Radhikasingh28/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Radhikasingh28/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Radhikasingh28/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Radhikasingh28/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Radhikasingh28/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Two Pointers
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Radhikasingh28/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Radhikasingh28/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Radhikasingh28/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
