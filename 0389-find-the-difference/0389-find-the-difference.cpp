@@ -1,19 +1,21 @@
+
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int sum1=0;
-        int sum2=0;
+        int freq[26] = {0};
 
-    for(char ch : s){
-        sum1=sum1+ch;
-    }
-     for(char ch : t){
-        sum2=sum2+ch;
-    }
-    int result = sum2-sum1;
-    return result;
+        for(int i = 0; i < s.size(); i++) {
+            freq[s[i] - 'a']++;
+        }
 
-        
-        
+        for(int i = 0; i < t.size(); i++) {
+            freq[t[i] - 'a']--;
+
+            if(freq[t[i] - 'a'] < 0) {
+                return t[i];
+            }
+        }
+
+        return ' ';
     }
 };
