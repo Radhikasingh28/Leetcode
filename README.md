@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Radhikasingh28/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Radhikasingh28/Leetcode/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Radhikasingh28/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/Radhikasingh28/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Radhikasingh28/Leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/0228-summary-ranges) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Radhikasingh28/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Radhikasingh28/Leetcode/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Radhikasingh28/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Radhikasingh28/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0456-132-pattern](https://github.com/Radhikasingh28/Leetcode/tree/master/0456-132-pattern) |
