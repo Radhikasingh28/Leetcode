@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Radhikasingh28/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Radhikasingh28/Leetcode/tree/master/2951-find-the-peaks) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Radhikasingh28/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Radhikasingh28/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/3731-find-missing-elements) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2427-number-of-common-factors](https://github.com/Radhikasingh28/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/Radhikasingh28/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Radhikasingh28/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Game Theory
 |  |
