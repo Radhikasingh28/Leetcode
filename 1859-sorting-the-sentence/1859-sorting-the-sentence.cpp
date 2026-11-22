@@ -1,32 +1,25 @@
 class Solution {
 public:
     string sortSentence(string s) {
-        vector<string> arr(10) ;
-        string word ="";
-        for(int i =0;i<=s.length();i++){
-            if(i==s.length()|| s[i]==' '){
-                int pos = word.back()-'0';
-            word.pop_back();
-                arr[pos]=word;
-                word="";
-            }
-            else{
-                word+=s[i];
-            }
+        vector<string> ans(10);
+        stringstream ss(s);
+        string word;
+        while(ss >> word){
+            int pos = word.back()-'0';
+            ans[pos]=word.substr(0,word.size()-1);
+
 
         }
-        string ans ="";
-        for(int i =0;i<10;i++){
-            if(arr[i]!=""){
-                if(!ans.empty()){
-                    ans+=" ";
+        string result;
+        for(int i=0;i<=9;i++){
+            if(ans[i]!=""){
+                if(result!=""){
+                    result+=" ";
                 }
-                ans+=arr[i];
-
+                  result+=ans[i];
             }
+          
         }
-        return ans;
-
-        
+        return result;
     }
 };
