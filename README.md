@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Radhikasingh28/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Radhikasingh28/Leetcode/tree/master/0258-add-digits) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Radhikasingh28/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Radhikasingh28/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Radhikasingh28/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Radhikasingh28/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1922-count-good-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1922-count-good-numbers) |
 | [1952-three-divisors](https://github.com/Radhikasingh28/Leetcode/tree/master/1952-three-divisors) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Radhikasingh28/Leetcode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Radhikasingh28/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Radhikasingh28/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Memoization
 |  |
 | ------- |
