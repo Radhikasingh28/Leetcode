@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Radhikasingh28/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/Radhikasingh28/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Radhikasingh28/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Radhikasingh28/Leetcode/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Radhikasingh28/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Radhikasingh28/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Radhikasingh28/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1859-sorting-the-sentence](https://github.com/Radhikasingh28/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Radhikasingh28/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Radhikasingh28/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Radhikasingh28/Leetcode/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Radhikasingh28/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
